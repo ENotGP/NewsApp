@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Czech News</string>
+    <string name="api_key" translatable="false">8bf40d75487f4dc2b6c374fc8eeff2ec</string>
+</resources>
